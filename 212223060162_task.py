@@ -1,4 +1,5 @@
-## 25/09/2026
+# jh25/09/2026
+
 """
 1. Student Attendance Analysis
 A college maintains the daily attendance details of its students in the form of a list containing student IDs. Some students may have attended multiple sessions on the same day. The administration wants to identify the longest continuous sequence of sessions in which no student ID is repeated. Develop a solution that determines the maximum length of such a sequence."""
